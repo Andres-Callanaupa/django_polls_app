@@ -1,0 +1,16 @@
+node_modules/*
+node_modules/
+.DS_Store
+*.pyc
+*.kpf
+._*
+.env
+!.gitignore
+*.sql
+*.swp
+celeryev.pid
+*.un~
+# ignore pycharm idea files
+.idea/*
+*.sublime-workspace
+.vagrant*
